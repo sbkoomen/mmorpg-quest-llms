@@ -24,14 +24,14 @@ This code was adapted from
   <p align="center">
     project_description
     <br />
-    <a href="https://github.com/sbkoomen/mmorpgs-quest-llms"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/sbkoomen/mmorpg-quest-llms"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/sbkoomen/mmorpgs-quest-llms">View Demo</a>
+    <a href="https://github.com/sbkoomen/mmorpg-quest-llms">View Demo</a>
     ·
-    <a href="https://github.com/sbkoomen/mmorpgs-quest-llms/issues">Report Bug</a>
+    <a href="https://github.com/sbkoomen/mmorpg-quest-llms/issues">Report Bug</a>
     ·
-    <a href="https://github.com/sbkoomen/mmorpgs-quest-llms/issues">Request Feature</a>
+    <a href="https://github.com/sbkoomen/mmorpg-quest-llms/issues">Request Feature</a>
   </p>
 </div>
 
@@ -67,7 +67,7 @@ This code was adapted from
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `sbkoomen`, `mmorpgs-quest-llms`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `sbkoomen`, `mmorpg-quest-llms`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -107,7 +107,7 @@ This is an example of how to list things you need to use the software and how to
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
    ```sh
-   git clone https://github.com/sbkoomen/mmorpgs-quest-llms.git
+   git clone https://github.com/sbkoomen/mmorpg-quest-llms.git
    ```
 3. Install NPM packages
    ```sh
@@ -154,16 +154,16 @@ Distributed under the GNU GPLv3 License. See `LICENSE.txt` for more information.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/sbkoomen/mmorpgs-quest-llms.svg?style=for-the-badge
-[contributors-url]: https://github.com/sbkoomen/mmorpgs-quest-llms/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/sbkoomen/mmorpgs-quest-llms.svg?style=for-the-badge
-[forks-url]: https://github.com/sbkoomen/mmorpgs-quest-llms/network/members
-[stars-shield]: https://img.shields.io/github/stars/sbkoomen/mmorpgs-quest-llms.svg?style=for-the-badge
-[stars-url]: https://github.com/sbkoomen/mmorpgs-quest-llms/stargazers
-[issues-shield]: https://img.shields.io/github/issues/sbkoomen/mmorpgs-quest-llms.svg?style=for-the-badge
-[issues-url]: https://github.com/sbkoomen/mmorpgs-quest-llms/issues
-[license-shield]: https://img.shields.io/github/license/sbkoomen/mmorpgs-quest-llms.svg?style=for-the-badge
-[license-url]: https://github.com/sbkoomen/mmorpgs-quest-llms/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/sbkoomen/mmorpg-quest-llms.svg?style=for-the-badge
+[contributors-url]: https://github.com/sbkoomen/mmorpg-quest-llms/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/sbkoomen/mmorpg-quest-llms.svg?style=for-the-badge
+[forks-url]: https://github.com/sbkoomen/mmorpg-quest-llms/network/members
+[stars-shield]: https://img.shields.io/github/stars/sbkoomen/mmorpg-quest-llms.svg?style=for-the-badge
+[stars-url]: https://github.com/sbkoomen/mmorpg-quest-llms/stargazers
+[issues-shield]: https://img.shields.io/github/issues/sbkoomen/mmorpg-quest-llms.svg?style=for-the-badge
+[issues-url]: https://github.com/sbkoomen/mmorpg-quest-llms/issues
+[license-shield]: https://img.shields.io/github/license/sbkoomen/mmorpg-quest-llms.svg?style=for-the-badge
+[license-url]: https://github.com/sbkoomen/mmorpg-quest-llms/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: images/screenshot.png
