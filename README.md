@@ -1,6 +1,4 @@
 # mmorpg-quest-llms
-This repository contains all of the code and instructions for fine-tuning GPT-J-6b for generating MMORPG quest descriptions.
-This code was adapted from 
 
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
@@ -13,7 +11,7 @@ This code was adapted from
 -->
 
 
-![Python Badge](https://img.shields.io/badge/Python-3.10-green)
+![Python Badge](https://img.shields.io/badge/Python-3.8.10-green)
 
 <!-- PROJECT LOGO -->
 <br />
@@ -65,67 +63,35 @@ This code was adapted from
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `sbkoomen`, `mmorpg-quest-llms`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+This repository contains all of the code and instructions for replicating my research into fine-tuning GPT-J-6b for generating MMORPG quest descriptions. 
+This generation is based on a quest's objective and any additional context information.
 
 
-
-### Built With
-
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+<!-- Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `sbkoomen`, `mmorpg-quest-llms`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+-->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+<!-- Datasets -->
+## Datasets
 
-<!-- GETTING STARTED -->
-## Getting Started
+Four datasets are included with this code. These datasets are quest collections from World of Warcraft, The Lord of the Rings Online, The Elder Scrolls Online, and Neverwinter. 
+These quests have been collected and adapted for use in fine-tuning a large language model for research purposes under Fair Use copyright laws. I do not own this content. All rights reserved to the copyright owners.
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+These datasets contain quest titles, descriptions, 
 
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/sbkoomen/mmorpg-quest-llms.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+_For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## Requirements and Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+This code was set up in a Jupyter Labs environment with an Nvidia A10 GPU with 24GB of VRAM, as well as a 56 core CPU with 256GB of RAM.
+
+Two Jupyter notebook files are given for fine-tuning with DeepSpeed on the GPU and inference on the CPU. 
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
@@ -144,9 +110,7 @@ Distributed under the GNU GPLv3 License. See `LICENSE` for more information.
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
-* []()
-* []()
+This code was adapted from a now-deleted Github repository and adapted for research purposes.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
